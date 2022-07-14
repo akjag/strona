@@ -1,6 +1,8 @@
-### Idąc do domu spałem
+### Index 
 
-Więc chyba pora się obudzić, jak sądzisz?
+* [pisane](./pisane/pisane.html)
+
+Więc chyba pora się , jak sądzisz?
 
 To będzie [Przykład](dodatkowy/do pupy, nie wiem jak to zrobić.md) i zobaczymy.
 
