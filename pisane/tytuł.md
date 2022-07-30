@@ -31,3 +31,7 @@ albo z procy strzelaj
 
 
 25-XI-2013
+
+[powrót](krotkie.html)
+
+[Główna](../index.html)

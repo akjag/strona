@@ -23,3 +23,8 @@ I odbił się w poszarpanym niebie
 
 
 .
+
+[powrót](krotkie.html)
+
+[Główna](../index.html)
+
