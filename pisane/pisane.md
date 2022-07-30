@@ -1,4 +1,4 @@
 # Pisane
 
-* Krótkie
+* [Krótkie](krotkie.html)
 * Dłuższe 
