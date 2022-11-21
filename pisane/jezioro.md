@@ -5,7 +5,7 @@ Szrama przecięła błękit
 
 Ludzie patrzyli zdziwieni
 Jak z poszarpanego otworu
-Poleciały cuchące ryby
+Poleciały cuchnące ryby
 A słońce rozlało się cienko
 Jak przekute żółtko
 
